@@ -1,0 +1,3 @@
+QUARTUS_VERSION = "18.1"
+DATE = "09:36:42  October 20, 2018"
+PROJECT_REVISION = "pwm-chisel"

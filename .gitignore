@@ -1,0 +1,8 @@
+output_files/*.*
+*.idea
+*.iml
+target
+db/*.*
+incremental_db
+simulation
+project/target
